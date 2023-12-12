@@ -7,7 +7,7 @@ Front-end developer
 *   🌍  I'm based in Italy
 *   ✉️  You can contact me at [allegretti.tommaso@gmail.com](mailto:allegretti.tommaso@gmail.com)
 *   🧠  I'm learning Vue 3
-*   🤝  I'm open to collaborating on any Front-end open source project
+*   🤝  I'm open to collaborating on any cool open source project
 
 ### Skills 
 <p align="left">
