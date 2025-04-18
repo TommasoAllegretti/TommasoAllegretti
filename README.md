@@ -6,7 +6,7 @@ Front-end developer
 
 *   🌍  I'm based in Italy
 *   ✉️  You can contact me at [allegretti.tommaso@gmail.com](mailto:allegretti.tommaso@gmail.com)
-*   🧠  I'm currently learning Flutter 
+*   🧠  I'm currently working on a Laravel + Blade web app 
 *   🤝  I'm open to collaborating on any cool open source project
 
 # 💻 Tech Stack:
